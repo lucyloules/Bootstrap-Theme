@@ -1,0 +1,11 @@
+.groupButtons{
+	padding: 0.5em;
+}
+h2{
+	font-size: 3em;
+	padding-bottom: 1em;
+}
+.label-lg{  font-size: large;}
+.label-default{  font-size: medium;}
+.label-sm{  font-size: small;}
+.label-xs{  font-size: x-small;}
